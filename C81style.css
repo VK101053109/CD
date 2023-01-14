@@ -1,0 +1,18 @@
+
+h1
+{
+	font-family: cursive;
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myc{
+border:10px ridge black;
+background-color: pink;
+}
+
